@@ -7,7 +7,8 @@
       "password": "121212",
       "gender": "male",
       "role": "a",
-      "img": "https://i0.wp.com/shuoutreach.com/wp-content/uploads/2022/01/person-icon.png?fit=300%2C300&ssl=1"
+      "img": "https://i0.wp.com/shuoutreach.com/wp-content/uploads/2022/01/person-icon.png?fit=300%2C300&ssl=1",
+      "cart": []
     },
     {
       "username": "ahmad",
@@ -16,7 +17,8 @@
       "gender": "male",
       "role": "m",
       "img": "https://i0.wp.com/shuoutreach.com/wp-content/uploads/2022/01/person-icon.png?fit=300%2C300&ssl=1",
-      "id": "2"
+      "id": "2",
+      "cart": []
     },
     {
       "username": "sama",
@@ -25,7 +27,8 @@
       "gender": "female",
       "role": "m",
       "img": "https://i0.wp.com/shuoutreach.com/wp-content/uploads/2022/01/person-icon.png?fit=300%2C300&ssl=1",
-      "id": "3"
+      "id": "3",
+      "cart": []
     },
     {
       "username": "jemy",
@@ -34,7 +37,8 @@
       "gender": "male",
       "role": "a",
       "img": "https://i0.wp.com/shuoutreach.com/wp-content/uploads/2022/01/person-icon.png?fit=300%2C300&ssl=1",
-      "id": "FjT6JlY"
+      "id": "FjT6JlY",
+      "cart": []
     },
     {
       "username": "alaa",
@@ -43,7 +47,8 @@
       "gender": "male",
       "role": "m",
       "img": "https://i0.wp.com/shuoutreach.com/wp-content/uploads/2022/01/person-icon.png?fit=300%2C300&ssl=1",
-      "id": "NARlm5w"
+      "id": "NARlm5w",
+      "cart": []
     }
   ],
   "products": [
